@@ -1,0 +1,34 @@
+STREET SOCCER:
+----------------
+
+DESCRIPTION:
+------------
+
+Nine teams....All sharing one and the same dream....To win the Street Soccer Championship! Those who understand the true nature of this game will surely strive to reach this dream too. A free hint for rookies: Fair Play Sucks!
+
+Street Soccer is not your ordinary top-down sports simulation game. It's more like an arcade-style soccer game combined with some brutal elements from… kick-boxers or hooligans! Matches take place on an urban street bordered by wire metal fences. You control outfield players and the Goalie, who is usually the head of the team and the most powerful man in the arena. Tackling IS allowed and it's nobody's fault but your own if you lose a player in a fist fight! Outfield players gain extra speed and power for their kicks by collecting power-ups which appear randomly on the field. If your players have suffered some damage during the game, you'd better look out for medical kits to heal the wounds.
+
+Now, jump into the Arena of Hell and show us what you got!
+
+
+INSTRUCTIONS:
+-------------
+The single match mode is for practicing against a single opponent. Each team in the opponent selection list has a star indicating its level of difficulty. Teams with three stars are the toughest ones. Points won in this mode are not recorded in the high score table.
+
+In Cup mode you have to win all of the opponents to become the Champion of Urban Soccer. All points won in this mode are recorded in the high score table.
+
+In Street Soccer there are two ways of winning a match: Score more goals during the game than your opponent OR injure all opponent players in one half.
+
+However, lose just one match and you will be kicked out of the cup!
+Controls for soccer:
+1-9 - Move player
+0 - Change player
+5 - Shoot, Pass, Tackle
+
+The longer you keep key 5 pressed while you are in possession of the ball the more power and spin your shot/kick will have. Press key 5 once to pass the ball. Tackle other players by pressing key 5 if you are not in possession of the ball.
+
+Controls in a fist fight:
+5 - Hit
+4 - Block
+
+Keeping key 5 pressed down will make your hit more powerful. You can bypass text boxes with multiple pages by pressing 0.

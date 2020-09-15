@@ -1,0 +1,16 @@
+popshade.t=0
+popshade.b=255
+popshade.l=0
+popshade.r=255
+popshade.dir=1
+popshade.type=36
+popshade.envo=0
+
+popshadelens.t=0
+popshadelens.b=255
+popshadelens.l=0
+popshadelens.r=255
+popshadelens.dir=1
+popshadelens.type=36
+popshadelens.envo=256
+

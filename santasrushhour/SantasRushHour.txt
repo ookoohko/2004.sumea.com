@@ -1,0 +1,43 @@
+-----------------
+SANTA'S RUSH HOUR
+-----------------
+
+SHORT DESCRIPTION
+-----------------
+
+Santa Claus had just started the Christmas Eve circuit with his brand new rocket-powered sleigh, when he accidentally flew into an air-pocket and dropped some of the Christmas presents! Now you must find the missing presents and let the kindly old man continue on his voyage to make all of the children in the world as happy as can be.
+
+MEDIUM DESCRIPTION
+------------------
+
+Santa Claus had just started the Christmas Eve circuit with his brand new rocket-powered sleigh, when he accidentally flew into an air-pocket and dropped some of the Christmas presents! Now you must find the missing presents and let the kindly old man continue on his voyage to make all of the children in the world as happy as can be.
+
+Santa's Rush Hour is a side-scrolling platform game featuring 12 compelling levels. The game is built on an award-winning game engine, which ensures pleasant game-play and great-looking graphics. The game offers a challenge to all player groups as the first levels are designed for beginners while the later levels can only be solved by true pro players!
+
+DETAIL DESCRIPTION
+------------------
+
+Santa's Rush Hour is a side-scrolling platform game featuring 12 compelling levels. The game is built on an award-winning game engine, which ensures pleasant game-play and great-looking graphics. The game offers a challenge to all player groups as the first levels are designed for beginners while the later levels can only be solved by true pro players!
+ 
+The goal of the game is to help Santa find all of the presents and bring them back to his sleigh. Guide Santa to the presents and touch them to make them start following him. The next level is opened when Santa has found all of the presents from the current level and returned them to his sleigh. 
+
+As if flying into the air-pocket wasn't bad enough, it gets worse as the creatures from the nearby caves find the missing presents. Now they are ready to do anything possible to ruin Santa's attempts to get the presents back as they want to keep their new found treasure, which of course makes the player's task quite a lot harder. Fortunately, Santa has magical boots that allow him to walk along the walls and he is also carrying a mobile phone that he can use to communicate with and ask help from Mrs. Claus!
+
+The more presents the player collects before taking them to the sleigh, the longer the line of presents following Santa gets. One of the creatures' abilities is to cut the line of presents, which leads to them being lost and spread all over the area. So here is a free hint for first timers: take the presents back to the sleigh little by little so that the line following Santa doesn't stretch too far behind him. Also watch out for pumpkins near one-toothed creatures! One-toothed creatures try to hurt Santa by throwing magical pumpkins at the old fellow!
+
+Attentive players will find secret places that they can use to access bonus levels. The main idea in the bonus game is to take as many presents as possible back to the sleigh in a given time limit. Finding bonus levels is crucial if a player wants to have the highest possible score in the high score list.
+
+INSTRUCTIONS:
+-------------
+Controls:
+4,6 - run
+1,2,3 - jump while on ground
+1,2,3 - fly while in the air
+8 - drop off a platform
+
+Story:
+The goal of the game is to help Santa find all of the presents and bring them back to his sleigh.
+Guide Santa to the presents and touch them to make them start following him.
+The next level is opened when Santa has found all of the presents from the current level and returned them to his sleigh.
+
+Hint: Look out for moving walls -- behind them might be hidden rooms!

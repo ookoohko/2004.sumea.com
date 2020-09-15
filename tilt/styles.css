@@ -1,0 +1,11 @@
+A:link		{  font: 12px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 14px; text-decoration: none  }
+A:active		{  font: 12px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 14px; text-decoration: none  }
+A:visited		{  font: 12px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 14px; text-decoration: none  }
+A:hover		{  font: 12px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 14px; text-decoration: underline  }
+
+.txt  {  font: 12px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 18px }
+.bigtxt  {  font: 13px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 20px }
+.smltxt  {  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #000000; line-height: 14px }
+.topic  {  font: 12px trebuchet ms, verdana, sans-serif; font-weight: bold; color: #660000; line-height: 18px }
+
+td		{  font: 12px Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; }

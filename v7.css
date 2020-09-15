@@ -1,0 +1,56 @@
+A:link		{  font: 12px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 14px; text-decoration: none  }
+A:active		{  font: 12px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 14px; text-decoration: none  }
+A:visited		{  font: 12px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 14px; text-decoration: none  }
+A:hover		{  font: 12px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 14px; text-decoration: underline  }
+
+A.nav:link	{  font: 12px trebuchet ms, verdana, sans-serif; font-style: normal; text-decoration: none; color: #3e4549; background-color: #EBEBEB  }
+A.nav:active	{  font: 12px trebuchet ms, verdana, sans-serif; font-style: normal; text-decoration: none; color: #3e4549; background-color: #EBEBEB  }
+A.nav:visited	{  font: 12px trebuchet ms, verdana, sans-serif; font-style: normal; text-decoration: none; color: #3e4549; background-color: #EBEBEB  } 
+A.nav:hover	{  font: 12px trebuchet ms, verdana, sans-serif; font-style: normal; text-decoration: none; color: #3e4549; background-color: #BEECFF  }
+
+A.greylink:link	{  font: 10px Verdana, Arial, Helvetica, sans-serif; font-style: normal; text-decoration: none; color: #7F7F7F  }
+A.greylink:active	{  font: 10px Verdana, Arial, Helvetica, sans-serif; font-style: normal; text-decoration: none; color: #7F7F7F  }
+A.greylink:visited	{  font: 10px Verdana, Arial, Helvetica, sans-serif; font-style: normal; text-decoration: none; color: #7F7F7F  } 
+A.greylink:hover	{  font: 10px Verdana, Arial, Helvetica, sans-serif; font-style: normal; text-decoration: none; color: #FFFFFF; background-color: #61CEFB  }
+
+A.listlink:link	{  font: 12px trebuchet ms, verdana, sans-serif; color: #3e4549; line-height: 14px; text-decoration: none  }
+A.listlink:active	{  font: 12px trebuchet ms, verdana, sans-serif; color: #3e4549; line-height: 14px; text-decoration: none  }
+A.listlink:visited	{  font: 12px trebuchet ms, verdana, sans-serif; color: #3e4549; line-height: 14px; text-decoration: none  } 
+A.listlink:hover	{  font: 12px trebuchet ms, verdana, sans-serif; color: #FFFFFF; line-height: 14px; text-decoration: none  }
+
+A.smltxtlink:link	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #0099CC; line-height: 14px; text-decoration: none  }
+A.smltxtlink:active	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #0099CC; line-height: 14px; text-decoration: none  }
+A.smltxtlink:visited	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #0099CC; line-height: 14px; text-decoration: none  } 
+A.smltxtlink:hover	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #0099CC; line-height: 14px; text-decoration: underline  }
+
+A.bigtxtlink:link	{  font: 13px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 20px; text-decoration: none  }
+A.bigtxtlink:active	{  font: 13px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 20px; text-decoration: none  }
+A.bigtxtlink:visited	{  font: 13px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 20px; text-decoration: none  } 
+A.bigtxtlink:hover	{  font: 13px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 20px; text-decoration: underline  }
+
+A.footnote:link	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; line-height: 14px; text-decoration: underline  }
+A.footnote:active	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; line-height: 14px; text-decoration: underline  }
+A.footnote:visited	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; line-height: 14px; text-decoration: underline  } 
+A.footnote:hover	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF; line-height: 14px; text-decoration: none  }
+
+
+.input		{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; width: 144px; background-color: #CCCCCC; border: 1px #888888 solid; padding: 1px;  }
+.inputmenu	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; width: 144px; background-color: #EBEBEB; border: 1px #888888 solid; padding: 1px;  }
+.inputbox		{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; width: 300px; background-color: #EBEBEB; border: 1px #888888 solid; padding: 1px;  }
+.subscribe	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; width: 95px; background-color: #FFFFFF; border: 1px #888888 solid; padding: 1px;  }
+.unsubscribe	{  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; width: 200px; background-color: #FFFFFF; border: 1px #888888 solid; padding: 1px;  }
+
+
+.txt  {  font: 12px trebuchet ms, verdana, sans-serif; color: #3e4549; line-height: 18px }
+.txtnews  {  font: 12px trebuchet ms, verdana, sans-serif; color: #3e4549; line-height: 18px; text-align: justify }
+.txtnav  {  font: 12px trebuchet ms, verdana, sans-serif; font-style: normal; text-decoration: none; color: #FFFFFF; background-color: #FF91CF }
+.txtblue  {  font: 12px trebuchet ms, verdana, sans-serif; color: #3399CC; line-height: 18px }
+.bigtxt  {  font: 13px trebuchet ms, verdana, sans-serif; color: #0099CC; line-height: 20px }
+.bigtxtblue  {  font: 14px trebuchet ms, verdana, sans-serif; font-weight: bold; color: #3399CC; line-height: 18px}
+.smltxt  {  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #3e4549; line-height: 14px }
+.smltxtgrey  {  font: 10px Verdana, Arial, Helvetica, sans-serif; color: #7F7F7F; line-height: 14px }
+.topic  {  font: 12px trebuchet ms, verdana, sans-serif; font-weight: bold; color: #FF6633; line-height: 18px }
+.topicnews  {  font: 12px trebuchet ms, verdana, sans-serif; font-weight: bold; color: #3e4549; line-height: 18px }
+
+
+
